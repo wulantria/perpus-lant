@@ -5,7 +5,7 @@
         <img src="~/assets/img/LOGO-SMK4.webp" alt="Bootstarp" width="80">
       </a>
       <div class="title me-auto">
-        <h3>perpus digital</h3>
+        <h3>Perpus Digital</h3>
         <address>
           SMKN 4 Tasikmalaya
           Jl.Depok, Sukamenak, Purbaratu
@@ -15,4 +15,11 @@
   </nav>
 </template>
 
-
+<style scoped>
+nav {
+  background-color: #0038FF !important;
+}
+.title{
+  color: white;
+}
+</style>
